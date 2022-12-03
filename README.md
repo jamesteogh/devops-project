@@ -42,4 +42,4 @@ Stock Detail Page
 
 Project Link - https://wstrade-client.vercel.app/
 
-Repository - https://github.com/jamesteogh/wstrade-client
+Repository - https://github.com/jamesteogh/devops-project
