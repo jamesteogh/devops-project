@@ -1,25 +1,20 @@
 # Expense Tracker - (Client)
 
-A US Stock Portfolio Tracker application which allows user to add famous US stocks into the watchlist, track its financial data as well as price charts. 
+An Personalized Expense Tracker application which allows user to add new expense into the tracker, enabling the user to track its expense history illustrated by charts categorized by month and year. 
 
 ## Technologies used:
 
-This project consist of 2 repositiories, the server(Backend) and client(Frontend). The technology comprises of the MERN stack: Mongoose, Express, React and NodeJS. Backend is deployed on Heroku, and Frontend is deployed on Vercel. This is the server repository. For more information on the server repository, click [here](https://github.com/jamesteogh/wstrade-server)!
-
+This project consist of only 1 repositiory. The technology comprises React and NodeJS. This Frontend React application is deployed on Vercel. 
 ## New things that I learn during this project
 
-1. Vercel 
-2. Yahoo Finance API using RapidAPI
-3. Axios
-4. Ant UI 
-5. Chart.js
-6. React toastify
+1. Vercel - Frontend deployment
+2. React
+3. 
+4. 
 
 ## Challenges that I face during this project
 
-During the planning phase, I was ambitious and wanted many features to be included in the site. It got daunting until the objectives are broken down into smaller goals, and to focus on getting the MVP up first. There were some tech that I tried learning but unfortunately did not use as it is taking too much time from doing actual project such as Redux and Figma. Took me awhile to look for the right API but eventually decided on a few which I had fun playing around with. 
-
-This project has a deadline of 3 weeks and I had to manage my time to fulfil other life commitments. I was away for 1 week plus to New York with my wife for both work and leisure, and coincidentally I had the chance to walk past Wall Street and took a few touristy pictures with the famous charging bull. After overcoming jetlag, I managed to get up to speed to complete the project.
+During the planning phase, 
 ## Things that I will do more if I had more time
 
 1. Try out financial news live API to be deployed so as to value add the website
@@ -34,12 +29,12 @@ Home Page
 
 ![Alt text](./public/img/watchlist.JPG?raw=true "Title")
 
-Stock Detail Page
+Add New Expense Form Page
 
 ![Alt text](./public/img/stockdetail.JPG?raw=true "Title")
 
 ## Project Link
 
-Project Link - https://wstrade-client.vercel.app/
+Project Link - https://devops-project-seven.vercel.app/
 
 Repository - https://github.com/jamesteogh/devops-project
