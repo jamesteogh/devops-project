@@ -29,9 +29,15 @@ Page Overview
 
 ![Alt text](./public/img/Page_Overview.jpg?raw=true "Title")
 
+Filter by Year (from 2021 to 2020)
+
+![Alt text](./public/img/filter2020.jpg?raw=true "Title")
+
 Add New Expense Form Page
 
-![Alt text](./public/img/stockdetail.JPG?raw=true "Title")
+![Alt text](./public/img/filter2020.jpg?raw=true "Title")
+
+![Alt text](./public/img/filter2020added.jpg?raw=true "Title")
 
 ## Project Link
 
