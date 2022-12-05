@@ -2,7 +2,7 @@
 
 An Personalized Expense Tracker application which allows user to add new expense into the tracker, enabling the user to track its expense history illustrated by charts categorized by month and year. 
 
-## Technologies used:
+## Technologies used
 
 This project consist of only 1 repositiory. The technology comprises React and NodeJS. This Frontend React application is deployed on Vercel. 
 ## New things that I learn during this project
@@ -12,12 +12,12 @@ This project consist of only 1 repositiory. The technology comprises React and N
 3. Chart - Created chart components
 4. Github - Not something new, but through this project I have a better understanding.
 
-## Challenges that I face during this project
+## Challenges that I faced during this project
 
 As I was not familiar with React.js, I decided that this project will be a good chance for me to beef up my knowledge on React. Using the online course, I was guided on how React works, creating components. I realized that there are still so much I dont know. I will definitely continue to create frontend application using React for fun practice. 
 ## Things that I will do more if I had more time
 
-1. There are concepts that I am still dont understand. If I have more time, I would spend more time doing trial and error. 
+1. There are concepts that I still dont understand. If I have more time, I would spend more time on trial and error. Console log more often to understand more.
 2. I will spend more time beefing up my javascript.
 3. I will also explore on how to work with other team-mates using Github. 
 4. Incoporate user sign in with Auth0
