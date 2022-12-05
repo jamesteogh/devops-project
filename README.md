@@ -27,7 +27,7 @@ During the planning phase,
 
 Page Overview
 
-![Alt text](./public/img/Page_Overview.JPG?raw=true "Title")
+![Alt text](./public/img/Page_Overview.jpg?raw=true "Title")
 
 Add New Expense Form Page
 
