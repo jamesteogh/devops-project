@@ -8,20 +8,19 @@ This project consist of only 1 repositiory. The technology comprises React and N
 ## New things that I learn during this project
 
 1. Vercel - Frontend deployment
-2. React
-3. 
-4. 
+2. React - Working with "State" and creating components
+3. Github - Working with Github version control
 
 ## Challenges that I face during this project
 
-During the planning phase, 
+As I was not familiar with React.js, I decided that this project will be a good chance for me to beef up my knowledge on React. Using the online course, I was guided on how React works, creating components. I realized that there are still so much I dont know. I will definitely continue to create frontend application using React for practice. 
 ## Things that I will do more if I had more time
 
-1. Try out financial news live API to be deployed so as to value add the website
+1. There are concepts that I am still dont understand. If I have more time, I would spend it more time doing trial and error. 
 
-2. Create a form that allows user to input, edit number of shares holdings so that personal portfolio can be tracked. 
+2. I will spend more time beefing up my javascript.
 
-3. Explore using Figma for planning, Redux and Next.js for execution. 
+3. I will also explore on how to work with other teammates using Github. 
 
 ## Project Demo
 
