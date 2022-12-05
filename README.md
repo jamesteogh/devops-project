@@ -25,9 +25,9 @@ During the planning phase,
 
 ## Project Demo
 
-Home Page
+Page Overview
 
-![Alt text](./public/img/watchlist.JPG?raw=true "Title")
+![Alt text](./public/img/Page_Overview.JPG?raw=true "Title")
 
 Add New Expense Form Page
 
